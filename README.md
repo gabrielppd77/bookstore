@@ -1,2 +1,2 @@
 # bookstore
-Deploy in netfly: https://app.netlify.com/sites/bookstore-gabriel/overview
+Deploy in netlify: https://bookstore-gabriel.netlify.app/
